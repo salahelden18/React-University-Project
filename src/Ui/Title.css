@@ -1,0 +1,12 @@
+h1 {
+  font-size: 36px;
+  font-weight: 600;
+}
+
+p {
+  color: #777;
+  font-size: 14px;
+  font-weight: 300;
+  list-style: 22px;
+  padding: 10px;
+}
